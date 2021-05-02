@@ -3,8 +3,6 @@
 
 import logging
 
-import speedtest
-
 import configloader
 
 
